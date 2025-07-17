@@ -48,7 +48,7 @@ gsap.from("#page2 #box", {
     start: "top 80%",   // when #box top hits 80% of viewport
     end: "bottom 20%",
     markers: true,
-    scrub:  5      
+    scrub:  5    // it is for revesre animation      
   }
 });
 
